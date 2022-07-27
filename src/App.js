@@ -4,7 +4,7 @@ import SearchPhotos from "./search_bar"
 function App() {
   return (
     <div className="App">
-        <h1 className="title">Pixabay Image Engine</h1>
+        <h1 className="title">Pixabay Search Image Engine</h1>
         <SearchPhotos />
 
       </div>
